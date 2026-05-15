@@ -1,0 +1,6 @@
+{
+  "name": "Iswara Aircond Services",
+  "description": "Professional air-conditioning installation, repair, and maintenance services in Kuantan, Pahang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
